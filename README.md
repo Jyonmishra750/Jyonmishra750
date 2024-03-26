@@ -2,6 +2,7 @@
 
 ## About Me
 I'm passionate about building scalable and efficient web applications using Java. With a strong foundation in Java Spring Boot, Hibernate, and front-end technologies.
+🖥
 
 ## 🔧 Technologies & Tools
 
