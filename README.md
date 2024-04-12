@@ -7,7 +7,7 @@
   I'm passionate about building scalable and efficient web applications using Java with a strong foundation in Spring Boot, Hibernate, and front-end technologies.
 <h4>
  <p align="center"> <a href="https://www.linkedin.com/in/jyoti-narayan-mishra" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?&style=for-the-badge" alt="jyonmishra" /></a> </p>
-  <p align="center"><a href="https://mail.google.com/jyotinarayanmishra05@gmail.com "><img src="https://img.shields.io/badge/jyotinarayanmishra05@gmail.com-REACH%20ME-green?style=social&logo=gmail&link=jyotinarayanmishra05@gmail.com " alt="GMAIL: jyotinarayanmishra05@gmail.com " /></a></p>
+  <p align="center"><a href="https://mail.google.com"><img src="https://img.shields.io/badge/jyotinarayanmishra05@gmail.com-REACH%20ME-green?style=social&logo=gmail&link=jyotinarayanmishra05@gmail.com " alt="GMAIL: jyotinarayanmishra05@gmail.com " /></a></p>
 <br>
 <br>
 
