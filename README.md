@@ -1,7 +1,6 @@
+# Hi there! 🙋‍♂️ I'm Jyoti Narayan Mishra
 
 ![Coding_Bug](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/fa1bdd26-2357-466b-bf2c-f10f9971fcb4)
-
-# Hi there! 🙋‍♂️ I'm Jyoti Narayan Mishra
 
 ## About Me
 🖥 I'm passionate about building scalable and efficient web applications using Java. With a strong foundation in Java Spring Boot, Hibernate, and front-end technologies.👨‍💻
