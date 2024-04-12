@@ -1,19 +1,47 @@
-# Hi there! 🙋‍♂️ I'm Jyoti Narayan Mishra
+<h1 align="center">Hi 👋, I'm Jyoti Narayan Mishra</h1>
 
-![Coding_Bug](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/fa1bdd26-2357-466b-bf2c-f10f9971fcb4)
+![helloworld1](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/bb2b9e2c-747c-4f00-a73f-1e1d356e1b7e)
 
-## About Me
-🖥 I'm passionate about building scalable and efficient web applications using Java. With a strong foundation in Java Spring Boot, Hibernate, and front-end technologies.👨‍💻
+<h3 align="center">I'm passionate about building scalable and efficient web applications using Java with a strong foundation in Spring Boot, Hibernate, and front-end technologies.</h3>
+<br>
+<br>
+<h3 align="center"><u>📫 How to reach me: jyotinarayanmishra05@gmail.com</u></h3>
+<br>
+<br>
 
-## 🔧 Technologies & Tools
+<h3 align="center"><b><i>💻 Tech Stack</i></b></h3>
+<p align="center"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/</a>  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+</p>
+<br>
+<br>
 
-- **Languages**: Java, JavaScript, HTML, CSS
-- **Frameworks**: Spring Boot, Hibernate, Spring Data JPA
-- **Databases**: MySQL, MongoDB
-- **Tools**: STS, Git, Maven, IntelliJ IDEA
-## 📫 Let's Connect!
-![gmail1](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/b1b9c028-d327-4b3e-aecd-6df588b5a3f8): jyotinarayanmishra05@gmail.com 
-- LinkedIn: [Jyoti Narayan Mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)
-- Instagram: [jyonmishra](https://www.instagram.com/jyonmishra)
-- Facebook: [Jyoti Naryan Mishra](https://www.facebook.com/jyotinarayan.bubun.9)
-- Twitter: [Jyonmishra](https://twitter.com/Jyonmishra)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jyonmishra750&label=Profile%20views&color=0e75b6&style=flat" alt="jyonmishra750" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyonmishra750" alt="jyonmishra750" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/jyonmishra" target="blank"><img src="https://img.shields.io/twitter/follow/jyonmishra?logo=twitter&style=for-the-badge" alt="jyonmishra" /></a> </p>
+<br>
+<br>
+
+<h3 align="center"><b><i>Connect with me</i></b></h3>
+<p align="center">
+<a href="https://twitter.com/jyonmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyonmishra" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/[jyoti narayan mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[jyoti narayan mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)" height="30" width="40" />
+</a>
+<a href="https://fb.com/[jyoti naryan mishra](https://www.facebook.com/jyotinarayan.bubun.9)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[jyoti naryan mishra](https://www.facebook.com/jyotinarayan.bubun.9)" height="30" width="40" />
+</a>
+<a href="https://instagram.com/[jyonmishra](https://www.instagram.com/jyonmishra)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[jyonmishra](https://www.instagram.com/jyonmishra)" height="30" width="40" />
+</a>
+</p>
