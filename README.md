@@ -12,8 +12,7 @@
 - **Databases**: MySQL, MongoDB
 - **Tools**: STS, Git, Maven, IntelliJ IDEA
 ## 📫 Let's Connect!
-![gmail1](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/8d98ae66-a161-415a-a81d-83312ce400c6)
-l: jyotinarayanmishra05@gmail.com 
+![gmail1](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/b1b9c028-d327-4b3e-aecd-6df588b5a3f8): jyotinarayanmishra05@gmail.com 
 - LinkedIn: [Jyoti Narayan Mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)
 - Instagram: [jyonmishra](https://www.instagram.com/jyonmishra)
 - Facebook: [Jyoti Naryan Mishra](https://www.facebook.com/jyotinarayan.bubun.9)
