@@ -10,9 +10,8 @@
 - **Languages**: Java, JavaScript, HTML, CSS
 - **Frameworks**: Spring Boot, Hibernate, Spring Data JPA
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Maven, IntelliJ IDEA
-
-## 📫 Let's Connect!
+- **Tools**: STS, Git, Maven, IntelliJ IDEA
+![letsconnect](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/5c09cb50-77b7-40b1-9ab2-7a5b10bfd53a)## 📫 Let's Connect!
 - Email: jyotinarayanmishra05@gmail.com 
 - LinkedIn: [Jyoti Narayan Mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)
 - Instagram: [jyonmishra](https://www.instagram.com/jyonmishra)
