@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jyoti Narayan Mishra</h1>
 
 ![helloworld1](https://github.com/Jyonmishra750/Jyonmishra750/assets/135500427/bb2b9e2c-747c-4f00-a73f-1e1d356e1b7e)
-
-<h3 align="center">I'm passionate about building scalable and efficient web applications using Java with a strong foundation in Spring Boot, Hibernate, and front-end technologies.</h3>
 <br>
-<br>
-<h3 align="center"><u>📫 How to reach me: jyotinarayanmishra05@gmail.com</u></h3>
+<h4 align="center"><b><i><u>ABOUT ME</u></i></b><h4>
+<h4 align="center">
+  I'm passionate about building scalable and efficient web applications using Java with a strong foundation in Spring Boot, Hibernate, and front-end technologies.
+<h4>
+ <p align="center"> <a href="https://www.linkedin.com/in/jyoti-narayan-mishra" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?&style=for-the-badge" alt="jyonmishra" /></a> </p>
+  <p align="center"><a href="jyotinarayanmishra05@gmail.com "><img src="https://img.shields.io/badge/jyotinarayanmishra05@gmail.com-REACH%20ME-green?style=social&logo=gmail&link=jyotinarayanmishra05@gmail.com " alt="GMAIL: jyotinarayanmishra05@gmail.com " /></a></p>
 <br>
 <br>
 
@@ -29,8 +31,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jyonmishra750&label=Profile%20views&color=0e75b6&style=flat" alt="jyonmishra750" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyonmishra750" alt="jyonmishra750" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/jyonmishra" target="blank"><img src="https://img.shields.io/twitter/follow/jyonmishra?logo=twitter&style=for-the-badge" alt="jyonmishra" /></a> </p>
 <br>
 <br>
 
@@ -38,10 +38,10 @@
 <p align="center">
 <a href="https://twitter.com/jyonmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyonmishra" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/[jyoti narayan mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[jyoti narayan mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)" height="30" width="40" />
+<a href="https://www.linkedin.com/in/jyoti-narayan-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[jyoti narayan mishra](https://www.linkedin.com/in/jyoti-narayan-mishra)" height="30" width="40" />
 </a>
-<a href="https://fb.com/[jyoti naryan mishra](https://www.facebook.com/jyotinarayan.bubun.9)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[jyoti naryan mishra](https://www.facebook.com/jyotinarayan.bubun.9)" height="30" width="40" />
+<a href="https://www.facebook.com/jyotinarayan.bubun.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[jyoti naryan mishra](https://www.facebook.com/jyotinarayan.bubun.9)" height="30" width="40" />
 </a>
-<a href="https://instagram.com/[jyonmishra](https://www.instagram.com/jyonmishra)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[jyonmishra](https://www.instagram.com/jyonmishra)" height="30" width="40" />
+<a href="https://www.instagram.com/jyonmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[jyonmishra](https://www.instagram.com/jyonmishra)" height="30" width="40" />
 </a>
 </p>
